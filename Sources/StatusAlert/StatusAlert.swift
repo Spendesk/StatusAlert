@@ -79,7 +79,7 @@ import UIKit
     
     /// Determines whether blur is available
     private var isBlurAvailable: Bool {
-        return UIDevice.current.isBlurAvailable
+        return false
     }
     
     private var pickGesture: UILongPressGestureRecognizer?

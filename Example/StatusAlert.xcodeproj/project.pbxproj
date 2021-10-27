@@ -94,7 +94,7 @@
 		E9A189F81FDC1ABD00F3B75B /* StatusAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusAlert.swift; sourceTree = "<group>"; };
 		E9A189F91FDC1ABD00F3B75B /* StatusAlertUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusAlertUtils.swift; sourceTree = "<group>"; };
 		F24C75C8BB4C927F99C69D3C /* Pods-StatusAlertObjCDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StatusAlertObjCDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-StatusAlertObjCDemo/Pods-StatusAlertObjCDemo.release.xcconfig"; sourceTree = "<group>"; };
-		F9F31DA03D850F944EE3E8AF /* StatusAlert.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = StatusAlert.podspec; path = ../StatusAlert.podspec; sourceTree = "<group>"; };
+		F9F31DA03D850F944EE3E8AF /* StatusAlert.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = StatusAlert.podspec; path = ../StatusAlert.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
